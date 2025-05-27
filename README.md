@@ -22,3 +22,20 @@
 - ✅ [Lab 7: Abstraction](#)
 - ✅ [Lab 8: File Handling in OOP](#)
 - ✅ [Lab 9: Exception Handling](#)
+
+## 👩‍💻 About the Author
+
+Hi! I'm **Moaza** — a Computer Science student currently in my 2nd semester.  
+I'm passionate about learning programming, and this repo is part of my journey to mastering **Object-Oriented Programming using Python**.
+
+📚 These lab manuals are:
+- Organized, viva-ready
+- Written with beginners in mind
+- Made with ❤️ to help others too!
+
+💬 Got questions or suggestions?  
+Feel free to [open an issue](https://github.com/Moaza3/Python_OOP_Lab_Manuals/issues) — I'd love to hear from you!
+
+⭐ Star this repo or fork it if you found it helpful.  
+Let's connect and learn together. 😊
+
